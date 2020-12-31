@@ -1,0 +1,9 @@
+* tensorflow is  a module developed  by google to do a different machine learning and AI applications
+
+* algorithms
+* neural networks
+* complex topics
+* image recognition and object recognition
+* natural language processing, chatbots, text processing
+
+* resources 

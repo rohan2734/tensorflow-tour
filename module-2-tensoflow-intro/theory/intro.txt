@@ -1,0 +1,37 @@
+* tensorflow is largest open source machine learning library
+
+Graph:
+* what we do when we write code in tensorflow is, we create a graph, when we create a variable ,it is added to graph,
+  now that variable may be the summation of two other variables,
+
+*  th reason it is graph, because , different computations can be related to each other,
+   for ex,
+   if we want to figure out value of v1, but vector 1, = sum of vector v2 and vector v3, then we need to know the sum of v2 and  v3, before i can do the v2 computations
+
+session:
+* it is  a way to execute part or entire part of graph, 
+* when we start a session,we start from the end, where nothing is dependent on anythign else, we may have constant values, and we go to partial computation process
+
+
+https://colab.research.google.com/drive/1F_EWVKa8rbMXi3_fG0w7AtcscFq7Hi7B#forceEdit=true&sandboxMode=true
+
+* tensors: 
+ * it is a vector generalized to higher dimensions
+ * it is kind of a data point
+ * vector can have any amount of dimensions
+ * tensor is a generalizaiton of vectors and matrices to potentially higher dimensiones internally
+ * tensorflow represents tensors as n dimension arrays of base datatypes.
+
+ * it is the main object, we will be viewing, manipulating, and itis the main object that is passed around the program
+ * when we creat a program, we create a tensor, and it stores partially defined computation in the graph.
+ * each tensor had data type and shape
+ * data type, means what kind of information is stored
+ * shape is representation  of tensor in temrs of what dimension is.
+
+* string,number , floating has shape of 1, which means they are sacaler, which means they are only one value,
+when we talk about vector , they are more than 1 values, and when we talk about matrices, they go up mich higher
+
+* Rank/Degree of tensors
+ * means the number of dimensions involved in the tensor
+ * the above string, number, floating, has rank 0, which means they are scalar, because it is simply one thing, it doesnt have any dimension
+ 

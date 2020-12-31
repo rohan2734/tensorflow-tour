@@ -1,0 +1,7 @@
+* default python version
+>py -m venv venv
+
+* python other version 
+virtualenv venv --python=python3.8
+
+>https://www.tensorflow.org/install/pip

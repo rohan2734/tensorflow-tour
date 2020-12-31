@@ -1,0 +1,12 @@
+* AI : 
+  > effort to automate intellectual tasks normally performed by humans
+  > ML figures out the rules for us
+
+* ML : 
+  > rather than giving the program the rules, an algorithm finds the rules for us
+
+* Neural Networks or Deep learning :
+  > a form of machine learning that uses a layered representation of data
+
+* Data is important with machine learning and neural networks
+

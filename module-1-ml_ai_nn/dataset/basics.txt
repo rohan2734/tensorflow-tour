@@ -1,0 +1,9 @@
+* input information , which we always have to get output are called features
+* label , is something which we are looking for
+
+* features is the input information and we need to use that to make prediction
+
+* data is important, because it is key thing to create models
+* and when are testing the model , we wouldnt have midterm2 , we will just pass the features, which is midterm 1, and final
+
+* and the  incorrect input and output information will cause problems

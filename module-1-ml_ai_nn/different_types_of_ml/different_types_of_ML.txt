@@ -1,0 +1,30 @@
+different types of  ML 
+ > unsupervised learning
+ > supervised learning
+ > reinforcement learning
+
+
+* supervised learning 
+
+ > features correspond to label
+
+ > the reason it is called supervised,
+ > we pass the input information, and we make arbitary output, and it compares the label,so we supervise the model, and we tweak it , if we want more better data
+ 
+ > ex predict students final grade, model predicted as 76, instead of 77 , then we will tweak it little bit, and model will be in correct direction,
+
+* unsupervised learning
+
+ > it  has only features, and no labels and no outputs,
+ > we want the model to come up with the labels and outputs
+
+* reinforcement learning 
+
+ > here we dont have data, we have agent , and environment , and reward
+ > ex, 
+ > 
+ > it figures out the way ,explores different ways and reaches the flag
+ > in this way, we dont need data, it learns by itself
+
+
+
