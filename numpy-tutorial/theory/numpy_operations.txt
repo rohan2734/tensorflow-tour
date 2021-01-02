@@ -1,0 +1,3 @@
+* with numpy operations, we can find the dimension of array
+* we can find byte size of  each element
+* we can also find the data type of element

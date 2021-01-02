@@ -1,0 +1,5 @@
+* to create a virtual env
+> py -m venv venv
+
+* activate
+> \venv\Scripts\activate

@@ -1,0 +1,4 @@
+* numpy occupies less memory
+* it is fast
+* it is convenient 
+

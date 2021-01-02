@@ -1,0 +1,7 @@
+* numpy is core library for scientific computing in python
+* it provides a high performance multidimensional array object, and tools for working with these arrays.
+
+* multidimensional array:
+ * it is 2 dimensional since, it has rows and columns
+ * if it has 1 row , it is 1 dimensional array
+
