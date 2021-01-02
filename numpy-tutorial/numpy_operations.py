@@ -53,3 +53,5 @@ print(f.sum(axis=0))
 
 #sum of axis 1(sum of columns)
 print(f.sum(axis=1))
+
+#Finding square root 
