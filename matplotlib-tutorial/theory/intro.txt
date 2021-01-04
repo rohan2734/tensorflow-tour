@@ -1,0 +1,9 @@
+* it allows us to quickly interpret the data
+* if we are not from the analytics background, we cannot understand quickly
+
+* data -visualization:
+* presentation of data in pitctorial or graphical format
+* we can use it for, identifying the area that needs attention 
+* we can also use it to , clarify which  factors influence the customer vehaviour
+* we can also use to predict sales as well
+

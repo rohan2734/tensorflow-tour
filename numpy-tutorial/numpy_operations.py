@@ -55,3 +55,36 @@ print(f.sum(axis=0))
 print(f.sum(axis=1))
 
 #Finding square root 
+g = np.array([(1,2,3),(3,4,5)])
+print(np.sqrt(g))
+
+#standard deviation
+print(np.std(g)) # how each element varies from mean
+
+#addition
+#happens element wise, (matrix addition)
+h = np.array([(1,2,3),(4,5,6)])
+print(g+h) #here in case of lists, if we do that, it concatenates, but in numpy, it calculates the sum
+
+#subtraction
+
+print(g-h)
+
+#multiplication
+print(g*h)
+
+#division
+print(g/h)
+
+#concatenation
+#two ways - vertical stacking, horizontal stacking
+
+print(np.vstack((g,h))) #first g, then h
+
+print(np.hstack((g,h))) #first g , then h
+
+#array to single colum
+print(g.ravel())
+
+
+
