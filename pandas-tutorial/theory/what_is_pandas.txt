@@ -1,0 +1,7 @@
+* pandas is used for data manipulation, analysis, and cleaning
+* it is suited gor tabular data, ordered and unordered data, matrix data, unlabelled data, observational or statistical data
+
+* you can use it for stock prediction
+* advertising, analyse the data,
+* to find inconsistence in data
+* analytics of data

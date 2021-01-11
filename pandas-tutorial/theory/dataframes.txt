@@ -1,0 +1,4 @@
+* data frame is a 2 dimensioanl size, mutable, potentially heterogeneous tab
+* it alsocontains rows and columns
+
+* panda series, is one dimensional array capable of storing any data, and accessible data is called index
