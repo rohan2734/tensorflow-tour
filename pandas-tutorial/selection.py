@@ -38,3 +38,14 @@ print(df.iloc[2:5,1:3])
 #prints only the values in column A, whose values are greater than 0
 print(df[df['A'] > 0])  
 
+#reindexing
+df2 =df.reindex(index = d[0:4], columns = list(df.columns) + ['E'])
+df2.loc[d[0]:d[1],'E']=1
+print(df2)
+
+print(df2.isnull())
+
+# print(df2.dropna())
+df2=df2.fillna(value=2)
+
+print(pd.isna(df2))
