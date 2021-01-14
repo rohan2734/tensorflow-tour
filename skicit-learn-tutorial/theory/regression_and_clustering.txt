@@ -1,0 +1,3 @@
+* hyperplane , is a generalisation of a plane
+*  it will categorise the data points into different classes or categories
+

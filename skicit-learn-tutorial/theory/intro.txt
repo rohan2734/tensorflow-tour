@@ -1,0 +1,12 @@
+* what is skicit learn:
+ it is a library, which is used to perform machine learning in python
+
+* it is open source library
+
+>py -m venv venv
+>.\venv\Scripts\activate
+
+>pip install scikit-learn
+
+* every algorithm is exposed in scikit-learn via an estimator, so for that first
+ we need to import the model, so to do that,
