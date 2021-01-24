@@ -1,0 +1,13 @@
+* to create an environment
+>conda create -n tfdeeplearning
+
+to activate an environment 
+>conda activate tfdeeplearning
+
+
+* conda install jupyter
+conda install numpy
+conda install pandas
+conda install scikit-learn
+conda install matplotlib
+pip install --upgrade tensorflow 

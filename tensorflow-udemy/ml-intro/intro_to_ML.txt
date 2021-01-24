@@ -1,0 +1,61 @@
+supervised learning:
+
+uses labelled data to predict a label given some features
+
+if label is continuos , it is regression problem, else its categorical problem
+
+
+classification problem :
+features : height and weigt
+label: gender
+
+task: given  a persons height ,weight, predict gender
+
+supervised learning -regression
+
+features - square footage,rooms
+label house price (diffrence is label is not categorical , it is continuos)
+
+given house size, numnber of rooms , predit selling price
+
+x-axis -square features
+y-axis - price
+
+supervised learning has the model train on historical data, that is already labelled (previous house sales)
+
+once the model is trained, it can be used on new data, where only features are known, to attempt prediction
+
+unsupervised learning
+
+if you dont have historical data (dont have labels, but only have features)
+
+we nneed to look for patterns and find structure, since we dont have labels
+
+ex:
+clustering
+features : heights and weight for breed of dogs
+label: no label for unsupervised
+
+task :
+cluster together data into similar groups, it is then upto data scientist , to interpret the clusters
+
+Machine learning tasks :
+computer learning to play video, or dive a car
+
+it works through trail and error, like which actions yeilds greatest results
+
+components:
+agent -learning/decision maker
+envirionment - what agent interacts with 
+actions -what the agent will do
+
+process
+The agent chooses actions that maximises with some specific reward metric over a given amount of time
+
+common test split ratio is 30%
+
+supervised learning - regression eval
+
+MAE , MSE , RMSE
+
+

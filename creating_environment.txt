@@ -1,0 +1,21 @@
+to create
+>conda create --name myenv
+
+to activate
+>conda activate myenv
+
+to remove
+>conda deactivate
+>conda env remove --name myenv
+
+
+specific environment
+>conda create -n myenv python=3.8
+
+to open jupyter notebook in the conda env
+>jupyter notebook
+
+https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
+
+>conda install jupyter notebook
+>jupyter notebook
