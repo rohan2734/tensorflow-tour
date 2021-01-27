@@ -1,0 +1,3 @@
+* we have dendrites, that feed into the body of the cell
+* electric singal passes through  the body of the cell,and the output signal passes out from the axon
+to later on connect to other neuron
