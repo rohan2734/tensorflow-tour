@@ -1,0 +1,13 @@
+operation_class
+
+inputNodes: list of nodes, that are going into the operaiton
+outputNodes: list of nodes, that are consiming the output of the operaiton
+
+global default graph variable :
+compute method:
+it is overriden by extended classes
+
+Graph - it is a global variable
+
+
+
